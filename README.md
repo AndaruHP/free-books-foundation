@@ -109,8 +109,8 @@ stellar contract invoke \
 --source alice \
 --network testnet \
 -- add_to_wishlist \
---title "Cantik Itu Luka" \
---author "Eka Kurniawan" \
+--title "Atomic Habits" \
+--author "James Clear" \
 --requester GBFPKEBX7H4WM6AFQSPM7MOAUPYVWKOXAORGXWVYW3BAVQFTSIHNWU3C
 ```
 
@@ -128,7 +128,7 @@ stellar contract invoke \
 
 🗳️ Step 4 — Voting on Wishlist Items
 
-Cuz Alice give a book a wishlist, Andarian can vote the wishlist 🥰
+Cuz Alice give a book wishlist, Andarian can vote for the wishlist 🥰
 
 ```text
 # Andarian joins in!
